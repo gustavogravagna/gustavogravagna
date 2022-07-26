@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **FrontEnd projects with UX/UI, gender and accessible perspective**
 
-- 🌱 I’m currently learning **I'm learning full-stack development at freeCodeCamp.**
+- 🌱 I’m currently learning Full-Stack development (MERN) **
 
 - 👨‍💻 All of my projects are available at [https://gustavogravagna.github.io/](https://gustavogravagna.github.io/)
 
