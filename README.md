@@ -1,11 +1,14 @@
 <h1 align="center">Hello World! I'm Gustavo</h1>
 <h3 align="center">"I am a Full Stack developer with experience in the MERN stack. I am passionate about learning new technologies and staying up-to-date with the latest trends in programming languages. I specialize in building high-quality, user-friendly web applications with a focus on accessible and inclusive design.</h3>
 
-- 👨‍💻 :radio_button: All of my projects are available at [https://gustavogravagna.github.io/](https://gustavogravagna.github.io/)
+:radio_button: All of my projects are available at [https://gustavogravagna.github.io/](https://gustavogravagna.github.io/)
 
-- 📫 How to reach me **gustavogravagna993@gmail.com**
+:radio_button: Also the author of a health and wellness blog, where I share information and tips about maintaining a healthy lifestyle. You can find my blog at [CuriosidadeSalud.com](https://curiosidadessalud.com)
 
-- ⚡ Curious fact **Apart from being a designer and web developer, I am also a designer and developer of men's and women's footwear. I LOVE SHOES TOO!**
+:radio_button: Curious fact **Apart from being a designer and web developer, I am also a designer and developer of men's and women's footwear. I LOVE SHOES TOO!**
+
+:radio_button: How to reach me **gustavogravagna993@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
