@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! I'm Gustavo</h1>
 <h3 align="center">"I am a Full Stack developer with experience in the MERN stack. I am passionate about learning new technologies and staying up-to-date with the latest trends in programming languages. I specialize in building high-quality, user-friendly web applications with a focus on accessible and inclusive design.</h3>
 
-- 👨‍💻 All of my projects are available at [https://gustavogravagna.github.io/](https://gustavogravagna.github.io/)
+- 👨‍💻 :radio_button: All of my projects are available at [https://gustavogravagna.github.io/](https://gustavogravagna.github.io/)
 
 - 📫 How to reach me **gustavogravagna993@gmail.com**
 
