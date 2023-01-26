@@ -1,9 +1,5 @@
 <h1 align="center">Hello World! I'm Gustavo</h1>
-<h3 align="center">Always spending a lot of time reviewing, learning new technologies and getting to know what's new in programming languages.</h3>
-
-- 🔭 I’m currently working on **FrontEnd projects with UX/UI, gender and accessible perspective**
-
-- 🌱 I’m currently learning Full-Stack development (MERN) **
+<h3 align="center">"I am a Full Stack developer with experience in the MERN stack. I am passionate about learning new technologies and staying up-to-date with the latest trends in programming languages. I specialize in building high-quality, user-friendly web applications with a focus on accessible and inclusive design.</h3>
 
 - 👨‍💻 All of my projects are available at [https://gustavogravagna.github.io/](https://gustavogravagna.github.io/)
 
